@@ -1,3 +1,4 @@
 title: gazalied
 description: maps, tools, writing, experiments
-theme: no-style-please
+
+remote_theme: riggraz/no-style-please
