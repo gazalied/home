@@ -1,37 +1,28 @@
 ---
 layout: default
-title: Gazalied Hub
+title: gazalied
 ---
 
-# Welcome to Gazalied's Project Hub
+# gazalied
 
-Hello! This is the central repository directory for my web projects and applications hosted on GitHub Pages. Explore the links below to see what I have been working on.
+jakarta
 
-## 🚀 Featured Application
+## things
 
-### [DBD Quiz App](https://github.io)
-This is my primary application hosted at the root domain. It is an interactive quiz application built around Dead by Daylight mechanics, perks, and lore. 
+### [dbd](https://gazalied.github.io/)
+drill baby drill. quiz app.
+### [jakmap](https://gazalied.github.io/jakmap/)
+interactive diagrammatic jakarta public transit map.
+### [sonac](https://gazalied.github.io/clock/)
+clock with task manager.
+### [pescialtages](https://gazalied.github.io/pescialtages)
+sonic cd-ish special stage type shit
+### [mosquito98](https://gazalied.github.io/mosquito98)
+mosquito blood
 
----
+## elsewhere
 
-## 🛠️ Web Projects & Portfolios
-
-Select a project below to view its live deployment:
-
-* **[JakMap](https://github.io/jakmap)**
-  An interactive mapping and geospatial visualization application focused on the Jakarta region.
-* **[Sonac](https://github.io/sonac)**
-  A custom web utility tool designed for audio analysis and tracking.
-* **[PescialTages](https://github.io/pescialtages)**
-  A specialized tagging and organization system for filtering metadata and portfolio items.
-* **[Mosquito98](https://github.io/mosquito98)**
-  An experimental retro-themed web application and script environment.
-
----
-
-## 📬 Contact & Links
-
-* **GitHub:** [://github.com](https://://github.com)
-* **Main Domain:** [gazalied.github.io](https://github.io)
-
-Thank you for visiting!
+[github](https://github.com/gazalied) ·
+[instagram](https://instagram.com/gazali.ed) ·
+[tiktok](https://www.tiktok.com/@gazali.ed) ·
+[youtube](https://www.youtube.com/@gazalied50) ·
