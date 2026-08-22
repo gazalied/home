@@ -5,20 +5,26 @@ title: gazalied
 
 # gazalied
 
-jakarta
+south jakarta
 
-## things
+> ## apps
+> ### [dbd](https://gazalied.github.io/)
+> drill baby drill. quiz app
+> ### [jakmap](https://gazalied.github.io/jakmap/)
+> interactive diagrammatic jakarta public transit map
+> ### [clock](https://gazalied.github.io/clock/)
+> clock with task manager
+> ### [greader](https://gazalied.github.io/greader)
+> word for word fast reader
 
-### [dbd](https://gazalied.github.io/)
-drill baby drill. quiz app.
-### [jakmap](https://gazalied.github.io/jakmap/)
-interactive diagrammatic jakarta public transit map.
-### [sonac](https://gazalied.github.io/clock/)
-clock with task manager.
-### [pescialtages](https://gazalied.github.io/pescialtages)
-sonic cd-ish special stage type shit
-### [mosquito98](https://gazalied.github.io/mosquito98)
-mosquito blood
+
+> ## gamez
+> ### [pescialtages](https://gazalied.github.io/pescialtages)
+> sonic cd-ish special stage
+> ### [mosquito98](https://gazalied.github.io/mosquito98)
+> mosquito blood
+> ### [sonac](https://gazalied.github.io/sonac/)
+> sonac phyiscs demo
 
 ## elsewhere
 
